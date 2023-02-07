@@ -3,6 +3,8 @@ import java.util.Scanner;
 
 public class MaxFrequency {
 
+    //method filterSentence takes a string and eliminates all spaces or other characters that are not letters,
+    // also moving all letters to lowercase, then returns an ArrayList:
     private static ArrayList<Character> filterSentence(Scanner sc){
         System.out.println("Insert sentence to count maximum occurrences of a character: ");
         StringBuilder wordsCopy = new StringBuilder(sc.nextLine());
@@ -21,6 +23,7 @@ public class MaxFrequency {
         return returnArray;
     }
 
+    //this method takes the ArrayList and find the most often encountered letter from the input of the user:
     public static void frequency(Scanner sc) {
         ArrayList<Character> sentence = filterSentence(sc);
         ArrayList<Character> mostCommonChars = new ArrayList<>();

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f92641b1-b402-4b4a-8986-365deda9193d" name="Changes" comment="">
+    <list default="true" id="f92641b1-b402-4b4a-8986-365deda9193d" name="Changes" comment="added ex 2">
       <change afterPath="$PROJECT_DIR$/../../../Modul Incepatori/Cursuri/Algoritmi procesare Stringuri/Algoritmi procesare Stringuri.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Modul Incepatori/Cursuri/Curs 19/Arrays Cautare Filtrare Sortare/Arrays Cautare Filtrare Sortare.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Modul Incepatori/Cursuri/Curs 8/Curs 8.iml" afterDir="false" />
@@ -62,17 +62,8 @@
       <change afterPath="$PROJECT_DIR$/../../../Modul Incepatori/Teme/S9/break-continue/break-continue.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Modul Incepatori/Teme/S9/do-while/do-while.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Modul Incepatori/examen/examen/examen.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Cursuri/MyIntArrayList - Exercițiu/MyIntArrayList/MyIntArrayList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Recapitulare/Recap_recursivitate/Recap_recursivitate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Recapitulare/complementar/complementar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxFrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tema Recap 1/Tema Recap 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Teste LeetCode/ugly number/ugly number.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tester teste/tester teste/tester teste.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FrecventaMaxima.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxFrequency.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +126,7 @@
       <workItem from="1675623265679" duration="320000" />
       <workItem from="1675628281248" duration="4690000" />
       <workItem from="1675703430104" duration="69000" />
-      <workItem from="1675788205909" duration="9755000" />
+      <workItem from="1675788205909" duration="10522000" />
     </task>
     <task id="LOCAL-00001" summary="added ex 1">
       <created>1675632359456</created>
@@ -144,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675632359456</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added ex 2">
+      <created>1675808432223</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675808432223</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,14 +161,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added ex 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="added ex 1" />
+    <MESSAGE value="added ex 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="added ex 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MaxFrequency.java</url>
-          <line>32</line>
+          <line>35</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
